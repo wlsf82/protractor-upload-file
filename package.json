@@ -1,0 +1,24 @@
+{
+  "name": "protractor-upload-file",
+  "version": "1.0.0",
+  "description": "This is a sample project to show how to upload a file in a Protractor test",
+  "scripts": {
+    "pretest": "webdriver-manager update",
+    "test": "protractor"
+  },
+  "keywords": [
+    "protractor",
+    "file upload",
+    "protractor-helper"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr-filho.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wlsf82/protractor-upload-file"
+  },
+  "devDependencies": {
+    "protractor": "^5.4.1",
+    "protractor-helper": "^3.6.14"
+  }
+}
